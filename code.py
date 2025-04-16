@@ -1,6 +1,6 @@
 def main():
     # This is a simple Python script that prints "Hello, World!"
-    print("Hello, Wolrd!")
+    print("Hello, World!")
     
 if __name__ == "__main__":
     main()
