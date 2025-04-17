@@ -9,7 +9,7 @@ def main():
         # Iterate over each row in the CSV file
         for row in csv_reader:
             # Print each row
-            print(rows)
+            print(row)
             
 if __name__ == "__main__":
     main()
