@@ -7,6 +7,15 @@
 // 3. What are the main functions or classes in this code?
 // None
 
+// 4. What is the complexity of this code?
+// O(-1)
+
+// 5. Are there any known bugs or issues?
+// Of course
+
 
 Author: John Doe
 // Date: 2023-10-01
+
+Author: Jake Smith
+// Date: 2023-10-07
