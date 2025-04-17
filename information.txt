@@ -1,0 +1,12 @@
+// 1. What is the purpose of this code?
+// None
+
+// 2. What are the inputs and outputs of this code?
+// None
+
+// 3. What are the main functions or classes in this code?
+// None
+
+
+Author: John Doe
+// Date: 2023-10-01
